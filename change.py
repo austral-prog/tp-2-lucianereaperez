@@ -13,4 +13,4 @@ def change():
     print("Pesos:")
     print("{int(vuelto)}")
     print("Centavos:")
-    print("{floats(vuelto)*100}")
+    print("{float(vuelto)*100}")
