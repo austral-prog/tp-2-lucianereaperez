@@ -9,8 +9,7 @@ def change():
     print()
     print("Vuelto")
     print()
-    
     print("Pesos:")
     print(int(vuelto))
     print("Centavos:")
-    print(int(((money - expense)-int(money - expense))*100))
+    print(int(((money - expense)- int(money - expense)) * 100))
